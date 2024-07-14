@@ -1,0 +1,19 @@
+html {
+    box-sizing: border-box;
+    font-size: 62.5%;
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+    overflow: hidden;
+}
+
+body {
+    font-size: 1.6rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: thistle;
+}
+h1 {
+    color: rgba(0, 0, 0, 0.85);
+    text-align: center;
+    text-transform: uppercase;
+}
